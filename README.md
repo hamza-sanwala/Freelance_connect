@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RojgarNepal 
 
 RojgarNepal is a comprehensive platform designed to connect freelancers with clients, enabling seamless job postings, applications, and communication. The project involves multiple modules including client, server, admin, and recommendation systems.
@@ -197,3 +198,6 @@ This project is licensed under the MIT License.
 
 -Admin Panel
 ![Admin Panel](images/admin.png)
+=======
+# Freelance_connect
+>>>>>>> 61a45279a3296884e8da783af39e668fd735e7d8
